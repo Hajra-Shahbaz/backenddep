@@ -9,7 +9,7 @@ const PORT = 3000;
 
 // 4. Create your "GET" API endpoint
 app.get('/', (req, res) => {
-    res.send('Welcome to my backend');
+    res.send('Dekhain kr liya mn n, ho yeh phely he gya tha 😏');
 });
 
 // 5. Start the server
